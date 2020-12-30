@@ -1,4 +1,4 @@
-# Coming Soon
+# Tailwind HTML
 
 This repo contains a basic setup for using Tailwind CSS with simple HTML projects
 
